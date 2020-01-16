@@ -2,7 +2,7 @@ open in markdown viewer for more better view.
 
 # BID light sensor classifier algorithm challenge
 
-##Arduino Code in `Lighsensor` Folder
+## Arduino Code in `lighsensor_classifier` Folder
 
 Jotaro, 2020/01/10
 
